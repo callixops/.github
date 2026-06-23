@@ -29,18 +29,6 @@ Missão: aprimorar a conexão entre empresas e clientes com um contact center si
 - [Vendas](https://www.callix.com.br/vendas/) — discagem ativa e produtividade comercial
 - [Consignado](https://www.callix.com.br/consignado/) — operação especializada para crédito consignado
 
-## Sobre este repositório
-
-Este é o repositório **`.github`** da organização **callixops**. Aqui ficam configurações compartilhadas da org — perfil, templates de issues/PRs, workflows reutilizáveis e demais padrões de engenharia.
-
-## Repositórios
-
-| Repositório | Descrição |
-|-------------|-----------|
-| [`.github`](https://github.com/callixops/.github) | Perfil da organização e configurações compartilhadas |
-
-> Novos repositórios serão listados aqui conforme forem publicados na organização.
-
 ## Stack e práticas
 
 Trabalhamos com infraestrutura em nuvem, telecomunicações (VoIP, STFC/SCM), integrações via API e automação de operações críticas. Priorizamos simplicidade operacional, observabilidade e conformidade com a LGPD.
